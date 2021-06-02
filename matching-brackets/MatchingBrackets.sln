@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchingBrackets", "MatchingBrackets.csproj", "{6AF5F7E8-D43D-4FE9-BF64-70A78EFD2444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF5F7E8-D43D-4FE9-BF64-70A78EFD2444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF5F7E8-D43D-4FE9-BF64-70A78EFD2444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF5F7E8-D43D-4FE9-BF64-70A78EFD2444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF5F7E8-D43D-4FE9-BF64-70A78EFD2444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3DB4685-7F39-4862-B8AE-635D52976A82}
+	EndGlobalSection
+EndGlobal

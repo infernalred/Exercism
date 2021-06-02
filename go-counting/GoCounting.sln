@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoCounting", "GoCounting.csproj", "{801C0888-132F-4396-A6EA-13F66AF0D6DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{801C0888-132F-4396-A6EA-13F66AF0D6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801C0888-132F-4396-A6EA-13F66AF0D6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801C0888-132F-4396-A6EA-13F66AF0D6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801C0888-132F-4396-A6EA-13F66AF0D6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6E5FF17-3E08-477D-A284-65A71ECFA489}
+	EndGlobalSection
+EndGlobal
